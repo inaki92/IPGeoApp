@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IPGeoApp</string>
+    <string name="searchHint">Enter ip address</string>
+    <string name="search_btn">Find</string>
+</resources>
